@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Chris Yun
 
 #### Your section leader's name
 
-TODO
+Chris Yun
 
 #### Project title
 
-TODO
+World Chain Game
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I made the base code for my game and editing more perfetly
 
 #### What have you not done for your project yet?
 
-TODO
+I am figuring how to make the outcome words do not overlap with previous ones
 
 #### What problems, if any, have you encountered?
 
-TODO
+..not really, I just need more time to finish
